@@ -87,7 +87,7 @@ class Preferences: ObservableObject {
             case .Korean: return "kor_Hang"
             case .Japanese: return "jpn_Jpan"
             case .French: return "fra_Latn"
-            case .German: return "de-DE"
+            case .German: return "deu_Latn"
             case .Italian: return "ita_Latn"
             }
         }
